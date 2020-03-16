@@ -5,7 +5,7 @@
   "local_path":"./manifest.json",
   "description":"Manifest LogView",
   "Copyright":"(C) 2020 Lamon Produtos Ltda.",
-  "web_path":"https://github.com/Nicolaslamon7/LogView/raw/master/app/manifest.json",
+  "web_path":"https://raw.githubusercontent.com/Nicolaslamon7/LogView/master/app/manifest.json",
   "author":"Nicolas Ferreira Silva <nicolas.fsc20@gmail.com>",
   "public_key" :"b02456b431a53409-06701ff8e1d0c7ed-dd188a8645bda426-a62be5dd818447d5",
   "LogView":{
@@ -42,7 +42,7 @@
         "OSkey":"",
         "extract_path":"./",
         "local_path":"./services",
-        "release":"https://github.com/Nicolaslamon7/LogView/raw/master/app/LogView.zip",
+        "release":"https://raw.githubusercontent.com/Nicolaslamon7/LogView/master/app/LogView.zip",
         "files":{
           "LogView":"./LogView.exe"
         }
@@ -53,7 +53,7 @@
         "OSkey":"",
         "extract_path":"./",
         "local_path":"./services",
-        "release":"http://localhost/logview2-linux.zip",
+        "release":"https://raw.githubusercontent.com/Nicolaslamon7/LogView/master/app/logview2-linux.zip",
         "files":{
           "LogView":"./LogView.exe"
         }
@@ -77,7 +77,7 @@
         "OSkey":"",
         "extract_path":"./",
         "local_path":"./services",
-        "release":"http://localhost/updater-win32.zip",
+        "release":"https://raw.githubusercontent.com/Nicolaslamon7/LogView/master/app/updater-win32.zip",
         "files":{
           "updater":"./updater.exe"
         }
@@ -88,7 +88,7 @@
         "OSkey":"",
         "extract_path":"./",
         "local_path":"./services",
-        "release":"http://localhost/updater-linux.zip",
+        "release":"https://raw.githubusercontent.com/Nicolaslamon7/LogView/master/app/updater-linux.zip",
         "files":{
           "updater":"./updater.exe"
         }
