@@ -77,7 +77,7 @@
         "OSkey":"",
         "extract_path":"./",
         "local_path":"./services",
-        "release":"https://raw.githubusercontent.com/Nicolaslamon7/LogView/master/app/updater-win32.zip",
+        "release":"https://raw.githubusercontent.com/Nicolaslamon7/LogView/master/app/updater.zip",
         "files":{
           "updater":"./updater.exe"
         }
