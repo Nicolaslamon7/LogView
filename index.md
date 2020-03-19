@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## LogView
 
-You can use the [editor on GitHub](https://github.com/Nicolaslamon7/LogView/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+LogView permite a interação com alguns dos equipamentos da empresa [Lamon produtos Ltda](http://www.lamon.com.br/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Lamon Produtos
 
-### Markdown
+A Lamon, presente no mercado desde 1977, iniciou-se no seguimento de serviços do ramo Industrial, sendo em 1989 constituída a Lamon Produtos Ltda. (Indústria e Comércio), iniciando assim a fabricação de seus produtos.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contato
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nicolaslamon7/LogView/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contato
+Rua Crepúsculo, 110 - Bairro Califórnia 30.855-435
+Belo Horizonte/MG
+(31) 3373-1552 / 2552-0160
